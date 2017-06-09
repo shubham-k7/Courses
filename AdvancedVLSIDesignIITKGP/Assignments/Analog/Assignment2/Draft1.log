@@ -1,0 +1,11 @@
+Circuit: * C:\Users\BCI-HCI-LAB-1\Desktop\Vasisht\Assignment2\Draft1.asc
+
+Error on line 17 : v1 n007 0 v
+	 Unknown parameter "v"
+Error on line 18 : v2 n006 0 v
+	 Unknown parameter "v"
+Error on line 19 : v3 n001 0 v
+	 Unknown parameter "v"
+Error on line 20 : i1 n001 n010 i
+	 Unknown parameter "i"
+Fatal Error: No analysis request found.
