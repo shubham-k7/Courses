@@ -46,6 +46,26 @@ http://www.firewall.cx/networking-topics/protocols/127-ip-security-protocol.html
 
 LINKS
 
+https://www.youtube.com/watch?v=PW2tpAt2tAY
+
+https://www.youtube.com/watch?v=EZiB-7SnX5M
+
+https://www.youtube.com/watch?v=ztx615ZH7RA
+
+https://www.youtube.com/watch?v=wgj8mQnd2tM
+
+https://www.youtube.com/watch?v=JbsU6FSZyfQ
+
+https://www.youtube.com/watch?v=rpJgLkvjdEw
+
+
+
+https://www.youtube.com/watch?v=6q0tlDSQLwA
+
+https://www.youtube.com/watch?v=Ub9TBb-wtTs
+
+https://www.youtube.com/watch?v=yGXTHnV3124
+
 https://www.youtube.com/watch?v=I51HADVApig (More on Confinement Principle)
 
 https://www.youtube.com/watch?v=pNlq59vaVOc (System Call Interposition)
